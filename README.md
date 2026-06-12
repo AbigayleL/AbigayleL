@@ -1,13 +1,9 @@
-<h1 align="center">Hello 👋, I'm Abigayle LeFranc</h1>
-<h3 align="center">A passionate full-stack developer/ UX designer from Calgary, AB</h3>
+<h1 align="center">Hi, my name is Abigayle LeFranc</h1>
+<h3 align="center">A passionate Project Coordinator  from Calgary, AB</h3>
 
 - 🔭 I’m currently working on [List_It](https://github.com/AbigayleL/List_It-Tracking-App)
 
 - 🌱 I’m currently learning **Unity, C++**
-
-- 👨‍💻 All of my projects are available at (Coming Soon)
-
-- 📝 I regularly write articles on (Coming Soon)
 
 - 📫 How to reach me **abi.lefranc@gmail.com**
 
