@@ -1,8 +1,7 @@
 <h1 align="center">Hi, my name is Abigayle LeFranc</h1>
-<h3 align="center">A passionate Project Coordinator  from Calgary, AB</h3>
+<h3 align="center">A passionate Project Coordinator with experience in Software Development & UX Design from Alberta, Canada</h3>
 
-- 🔭 I’m currently working on [List_It](https://github.com/AbigayleL/List_It-Tracking-App)
-
+- 🔭 I’m currently working on Card Battler Game using Unity
 - 🌱 I’m currently learning **Unity, C++**
 
 - 📫 How to reach me **abi.lefranc@gmail.com**
