@@ -2,8 +2,6 @@
 
 <Strong>A passionate Project Coordinator with experience in Software Development & UX Design from Alberta, Canada </Strong>
 
-Skills: Figma / REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on Card Battler Unity Game + Building Assets 
 - 🌱 I’m currently learning Unity, C++ 
 - 📫 How to reach me: abigaylelefranc@gmail.com 
