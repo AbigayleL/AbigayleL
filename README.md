@@ -1,7 +1,7 @@
 ### Hi there 👋, Abigayle 
 #### LeFranc
-![Abi]("<img width="2560" height="1440" alt="Github Banner" src="https://github.com/user-attachments/assets/dadf0843-7368-44f0-a29d-1ae88dda83e8" />
-")
+<img width="2560" height="1440" alt="Github Banner" src="https://github.com/user-attachments/assets/dadf0843-7368-44f0-a29d-1ae88dda83e8" />
+
 
 A passionate Project Coordinator with experience in Software Development & UX Design from Alberta, Canada
 
