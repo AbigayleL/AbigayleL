@@ -1,10 +1,19 @@
-<h1 align="center">Hi, my name is Abigayle LeFranc</h1>
-<h3 align="center">A passionate Project Coordinator with experience in Software Development & UX Design from Alberta, Canada</h3>
+### Hi there 👋, Abigayle 
+#### LeFranc
+![Abi]("C:\Users\abile\OneDrive\Desktop\Github Banner.png")
 
-- 🔭 I’m currently working on Card Battler Game using Unity
-- 🌱 I’m currently learning **Unity, C++**
+A passionate Project Coordinator with experience in Software Development & UX Design from Alberta, Canada
 
-- 📫 How to reach me **abi.lefranc@gmail.com**
+Skills: Figma / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Card Battler Unity Game + Building Assets 
+- 🌱 I’m currently learning Unity, C++ 
+- 📫 How to reach me: abigaylelefranc@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AbigayleL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abigaylelefranc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abi_lefranc//)  
+
+
 
 <p align="left">
 </p>
