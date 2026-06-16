@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning Unity, C++ 
 - 📫 How to reach me: abigaylelefranc@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AbigayleL)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abigaylelefranc//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="filter: hue-rotate(300deg) saturate(150%);">](https://www.instagram.com/https://www.instagram.com/abi_lefranc//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AbigayleL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abigaylelefranc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="filter: brightness(0) saturate(100%) invert(86%) sepia(18%) saturate(1476%) hue-rotate(305deg) brightness(101%) contrast(102%);">](https://www.instagram.com/https://www.instagram.com/abi_lefranc//)  
 
 
 ## 💻 Tech Stack
